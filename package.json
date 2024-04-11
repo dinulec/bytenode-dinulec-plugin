@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "github:herberttn/bytenode-webpack-plugin"
+    "url": "github:dinulec/bytenode-dinulec-plugin"
   },
   "files": [
     "lib"
