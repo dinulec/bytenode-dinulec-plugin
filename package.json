@@ -1,7 +1,7 @@
 {
   "name": "@dinulec/bytenode-dinulec-plugin",
   "description": "Compile JavaScript into bytecode using bytenode",
-  "version": "2.0.0",
+  "version": "6.0.0",
   "license": "MIT",
   "repository": {
     "type": "git",
